@@ -45,6 +45,7 @@ Never pad a response to seem thorough. If the answer is short, keep it short.
 - Use **bold** for key terms on first use; use *italics* sparingly for emphasis.
 - Prefer **tables** when comparing 3+ items across the same attributes.
 - Never nest lists more than 2 levels deep.
+- Add important side notes in the end with **Observe!** or **Note:**. Keep it short and relevant, not spread out in the main text.
 
 ---
 
